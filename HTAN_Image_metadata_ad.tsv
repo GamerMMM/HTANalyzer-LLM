@@ -1,0 +1,5 @@
+Manifest	Description
+Imaging Level 1	Raw imaging data
+Imaging Level 2	Raw and pre-processed image data
+Imaging Level 3 Segmentation	Object segmentations
+Imaging Level 4	Derived imaging data: Object-by-feature array

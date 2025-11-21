@@ -1,0 +1,15 @@
+Manifest	Description
+10x Visium Spatial Transcriptomics - RNA-seq Level 1	Files contain raw RNA-seq data associated with spot/slide data.
+10x Visium Spatial Transcriptomics - RNA-seq Level 2	Alignment workflows downstream of Spatial Transcriptomics RNA-seq Level 1.
+10x Visium Spatial Transcriptomics - RNA-seq Level 3	Processed data files based on Spatial Transcriptomics RNA-seq Level 2 and Spatial Transcriptomics Auxiliary files.
+10x Visium Spatial Transcriptomics - RNA-seq Level 4	Processed data files based on Spatial Transcriptomics RNA-seq Level 3.
+10x Visium Spatial Transcriptomics - Auxiliary Files	Auxiliary data associated with spot/slide analysis (aligned Images, quality control files, etc)  from Spatial Transcriptomics.
+NanoString GeoMx DSP Spatial Transcriptomics Level 1	Files contain raw data output from the NanoString GeoMx DSP Pipeline. These can include RCC or DCC Files.
+NanoString GeoMx DSP Spatial Transcriptomics Level 3	Files contain processed data from the NanoString GeoMx DSP Pipeline. This level depends on GeoMx Level 1 and Imaging Level 2.
+10X Genomics Xenium ISS Experiment	All data pertaining to the 10X Genomics Xenium In-Situ Hybridization experiment
+Nanostring CosMx SMI Experiment	RNA and Protein Panel assays applied as part of Nanostring CosMx Spatial Molecular Imager (SMI)
+Slide-seq Level 1	Raw sequencing files for the Slide-seq assay.
+Slide-seq Level 2	Aligned sequencing files and QC for the Slide-seq assay.
+Slide-seq Level 3	Gene matrices with features and barcodes for Slide-seq as well as spatial information (bead location files).
+NanoString GeoMx DSP ROI DCC Segment Annotation Metadata	GeoMx ROI and Segment Metadata Attributes. The assayed biospecimen should be reported one per row with the associated ROI coordinates.
+NanoString GeoMx DSP ROI RCC Segment Annotation Metadata	GeoMx ROI and Segment Metadata Attributes. The assayed biospecimen should be reported one per row with the associated ROI coordinates.
